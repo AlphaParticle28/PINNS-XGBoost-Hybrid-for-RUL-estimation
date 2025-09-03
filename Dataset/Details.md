@@ -1,4 +1,4 @@
-**Due to size constraints, the full dataset could not be uploaded, you can follow [this link](https://phm-datasets.s3.amazonaws.com/NASA/5.+Battery+Data+Set.zip) to get all the files. i have chosen the files present in **
+**Due to size constraints, the full dataset could not be uploaded, you can follow [this link](https://phm-datasets.s3.amazonaws.com/NASA/5.+Battery+Data+Set.zip) to get all the files. i have chosen the files present in**
 
 
 **Data Description:**
